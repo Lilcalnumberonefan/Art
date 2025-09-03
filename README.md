@@ -7,3 +7,7 @@
 ---
 8/30/25
 <img width="800" height="800" alt="M-E" src="https://github.com/user-attachments/assets/329287b4-b5aa-460d-b08e-f54cc7a80ada" />
+
+---
+9/3/25
+<img width="1820" height="1636" alt="davesprite" src="https://github.com/user-attachments/assets/c1aaef65-b89c-4b9c-8e45-d01562662e2e" />
