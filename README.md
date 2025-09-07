@@ -11,3 +11,7 @@
 ---
 9/3/25
 <img width="1820" height="1636" alt="davesprite" src="https://github.com/user-attachments/assets/c1aaef65-b89c-4b9c-8e45-d01562662e2e" />
+
+---
+9/8/25
+<img width="500" height="500" alt="lil seb 9725" src="https://github.com/user-attachments/assets/73b8aa23-7380-45ee-8d24-258d604e7b7e" />
